@@ -1,0 +1,22 @@
+{
+    "Stock":[{
+            "name":"L&T",
+            "share":15,
+            "value":20000
+    },
+    {
+            "name":"IBM",
+            "share":26,
+            "value":150000
+    },
+    {
+            "name":"TCS",
+            "share":52,
+            "value":19000
+    },
+    {
+            "name":"Wipro",
+            "share":36,
+            "value":18900
+    }]
+}

@@ -1,0 +1,22 @@
+{
+    "Account":[{
+        "name": "Rel",
+        "share_count": 23, 
+        "share_price": "23000"
+    },
+    {
+        "name": "ITC",
+        "share_count": 33, 
+        "share_price": 24000
+    },
+    {
+        "name": "IBM",
+        "share_count": 52, 
+        "share_price": "24000"
+    },
+    {
+        "name": "Hyu", 
+        "share_count": 10, 
+        "share_price": "12000"
+    }]
+}

@@ -1,0 +1,29 @@
+{
+    "AdressBook":[{
+        "firstName":"Suraj",
+        "lastName":"kumar",
+        "adress":"DT-1964",
+        "city":"Ranchi",
+        "state":"Jharkhand",
+        "zip":834004,
+        "Ph_No":7739427302
+    },
+    {
+        "firstName":"shubham",
+        "lastName":"kumar",
+        "adress":"DT-1965",
+        "city":"Bhubaneswar",
+        "state":"Odisha",
+        "zip":723010,
+        "Ph_No":9939042399
+    },
+    {
+        "firstName":"Bikash",
+        "lastName":"kumar",
+        "adress":"DT-1966",
+        "city":"Mumbai",
+        "state":"Maharastra",
+        "zip":732636,
+        "Ph_No":7004049194
+}]
+}
